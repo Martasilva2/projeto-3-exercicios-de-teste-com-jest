@@ -1,1 +1,1 @@
-# projeto-3-exercicios-de-teste-com-jest
+# PROJETO-2-EXERCICIOS-DE-TESTE-COM-JEST
